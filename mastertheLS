@@ -1,0 +1,2 @@
+touch {1..9}
+ls -AmFtu | sed 's/\./_/g' | sed 's/\s//g'
