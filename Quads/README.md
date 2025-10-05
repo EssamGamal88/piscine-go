@@ -81,11 +81,11 @@ CBBBA
 
 ## 🧩 Skills Practiced
 
-Go basics (functions, loops, conditionals)
-Modular programming and file structure
-ASCII pattern generation
-Problem-solving and debugging
-Writing clean, reusable functions
+- Go basics (functions, loops, conditionals)
+- Modular programming and file structure
+- ASCII pattern generation
+- Problem-solving and debugging
+- Writing clean, reusable functions
 
 ---
 
@@ -129,8 +129,6 @@ Each file implements one specific **rectangle pattern logic**,  making it easy t
 
 ---
 
----
-
 ## 🧠 What I Learned
 
 This project was my **first step into Go programming** during the **01Talent x Nextera Piscine**.  
@@ -142,3 +140,5 @@ It helped me understand and apply core programming concepts, including:
 - 💭 How logical structure improves code clarity and problem-solving  
 
 ---
+⭐ *If you liked this project or found it useful, feel free to star the repo and follow my journey on [GitHub](https://github.com/EssamGamal88)!*
+
