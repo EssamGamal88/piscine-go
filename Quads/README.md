@@ -57,14 +57,18 @@ Output:
 ABBBC
 B   B
 CBBBA
+
 ---
+
 ## 🧩 Skills Practiced
 Go basics (functions, loops, conditionals)
 Modular programming and file structure
 ASCII pattern generation
 Problem-solving and debugging
 Writing clean, reusable functions
+
 ---
+
 ##🗂️ Project Structure
 Quads/
 ├── QuadA.go
@@ -75,7 +79,9 @@ Quads/
 ├── main.go
 ├── go.mod
 └── go.sum
+
 ---
+
 ##🚀 How to Run
 1- Clone the repository:
 git clone https://github.com/EssamGamal88/piscine-go.git
@@ -83,7 +89,9 @@ git clone https://github.com/EssamGamal88/piscine-go.git
 cd piscine-go/Quads
 3- Run the main file:
 go run .
+
 ---
+
 ## What I Learned
 This project was my first step into Go programming during the 01Talent x Nextera Piscine.
 It helped me understand:
