@@ -18,50 +18,64 @@ This exercise helped reinforce **logical thinking**, **nested loops**, and **pat
 ## 💻 Usage Examples
 
 ### QuadA
-Input:
+**Input:**
 ```go
 piscine.QuadA(5, 3)
-Output:
+```
+**Output:**
+```
 o---o
 |   |
 o---o
+```
 
 ### QuadB
-Input:
+**Input:**
 ```go
 piscine.QuadB(5, 3)
-Output:
+```
+**Output:**
+```
 /***\
 *   *
 \***/
+```
 
 ### QuadC
-Input:
+**Input:**
 ```go
 piscine.QuadC(5, 3)
-Output:
+```
+**Output:**
+```
 ABBBA
 B   B
 CBBBC
+```
 
 ### QuadD
-Input:
+**Input:**
 ```go
 piscine.QuadD(5, 3)
+```
 Output:
+```
 ABBBC
 B   B
 ABBBC
+```
 
 ### QuadE
 Input:
 ```go
 piscine.QuadE(5, 3)
+```
 Output:
+```
 ABBBC
 B   B
 CBBBA
-
+```
 ---
 
 ## 🧩 Skills Practiced
@@ -73,32 +87,56 @@ Writing clean, reusable functions
 
 ---
 
-##🗂️ Project Structure
+## 🗂️ Project Structure
+
+The project follows a simple and modular folder structure:  
+
+```
 Quads/
-├── QuadA.go
-├── QuadB.go
-├── QuadC.go
-├── QuadD.go
-├── QuadE.go
-├── main.go
-├── go.mod
-└── go.sum
+├── QuadA.go      
+├── QuadB.go     
+├── QuadC.go      
+├── QuadD.go      
+├── QuadE.go     
+├── main.go       
+├── go.mod       
+└── go.sum       
+```
+
+Each file implements one specific **rectangle pattern logic**,  making it easy to test, maintain, and understand.
 
 ---
 
-##🚀 How to Run
-1- Clone the repository:
-git clone https://github.com/EssamGamal88/piscine-go.git
-2- Navigate to the project folder:
-cd piscine-go/Quads
-3- Run the main file:
-go run .
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/EssamGamal88/piscine-go.git
+   ```
+
+2. **Navigate to the project folder:**
+   ```bash
+   cd piscine-go/Quads
+   ```
+
+3. **Run the main file:**
+   ```bash
+   go run .
+   ```
 
 ---
 
-## What I Learned
-This project was my first step into Go programming during the 01Talent x Nextera Piscine.
-It helped me understand:
-How loops and conditionals interact to create patterns
-The importance of modular and readable code
-How to test and debug small components effectively
+---
+
+## 🧠 What I Learned
+
+This project was my **first step into Go programming** during the **01Talent x Nextera Piscine**.  
+It helped me understand and apply core programming concepts, including:
+
+- 🔁 How **loops** and **conditionals** interact to create patterns  
+- 🧩 The importance of **modular** and **readable code**  
+- 🧪 How to **test** and **debug** small components effectively  
+- 💭 How logical structure improves code clarity and problem-solving  
+
+---
