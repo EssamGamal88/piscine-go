@@ -6,6 +6,7 @@ focused on learning **loops**, **conditionals**, and **ASCII-based pattern gener
 ---
 
 ## 🧠 Overview
+
 The **Quads Project** includes five different functions (`QuadA` to `QuadE`) that draw rectangles with specific corner and border characters.  
 Each function follows unique logic to print its corresponding pattern based on the provided width (`x`) and height (`y`).
 
@@ -79,6 +80,7 @@ CBBBA
 ---
 
 ## 🧩 Skills Practiced
+
 Go basics (functions, loops, conditionals)
 Modular programming and file structure
 ASCII pattern generation
