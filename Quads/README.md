@@ -25,6 +25,7 @@ Output:
 o---o
 |   |
 o---o
+
 ### QuadB
 Input:
 ```go
@@ -33,6 +34,7 @@ Output:
 /***\
 *   *
 \***/
+
 ### QuadC
 Input:
 ```go
@@ -41,6 +43,7 @@ Output:
 ABBBA
 B   B
 CBBBC
+
 ### QuadD
 Input:
 ```go
@@ -49,6 +52,7 @@ Output:
 ABBBC
 B   B
 ABBBC
+
 ### QuadE
 Input:
 ```go
